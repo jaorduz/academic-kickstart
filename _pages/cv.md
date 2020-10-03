@@ -16,8 +16,7 @@ PDF to download
 * CV (full, french version) [PDF](https://www.dropbox.com/s/x8dnkj7qpwilsgp/JO_CV_Fr-vOL.pdf?dl=0){:target="_blank"} 
 * CV (full, spanish version) [PDF](https://www.dropbox.com/s/mym14vrdgnl825b/JO_CV_Sp-vOL.pdf?dl=0){:target="_blank"} 
 <!-- Calendly link widget begin -->
-If you have question or want more details, 
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+If you have question or want more details, <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/jaorduz/60min'});return false;">Schedule time with me</a>
 <!-- Calendly link widget end -->
@@ -100,19 +99,6 @@ Service and leadership
 ======
 * GCCyC: Group on Quantum and Scientific Computing
 * [Yeyecoa Project](http://www.yeyecoa.acatlan.unam.mx/)
-* [Seminar: CTIM](https://sites.google.com/view/ctimfesac). Check our 
-[youtube channel](https://www.youtube.com/channel/UC0xcSLbzXcggYuz182gABaA).
+* [Seminar: CTIM](https://sites.google.com/view/ctimfesac). Check our [youtube channel](https://www.youtube.com/channel/UC0xcSLbzXcggYuz182gABaA).
 * [Courses](https://sites.google.com/view/cursosyeyecoa/p%C3%A1gina-principal)
-
-<!-- 
-
-Meeting with me
-======
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/jaorduz/60min" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
-Calendly inline widget end 
--->
-
-
 
